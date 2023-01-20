@@ -1,6 +1,6 @@
  ### Hello World! My name is Felipe our Mega! 🖖
 
- ![Mega GitHub stats](https://github-readme-stats.vercel.app/api?username=zMegax&show_icons=true&theme=dark)
+ ![Mega GitHub stats](https://github-readme-stats.vercel.app/api?username=zMegax&show_icons=true&theme=tokyonight)
 
 ### Tecnologias utilizadas no meu dia-adia:
 
