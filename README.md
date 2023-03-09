@@ -1,6 +1,6 @@
  ### Hello World! My name is Felipe our Mega! 🖖
 
- ![Mega GitHub stats](https://github-readme-stats.vercel.app/api?username=zMegax&show_icons=true&theme=tokyonight)
+ ![Mega GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipepLopes&show_icons=true&theme=tokyonight)
 
 ### Tecnologias utilizadas no meu dia-adia (por enquanto)🧠:
 
