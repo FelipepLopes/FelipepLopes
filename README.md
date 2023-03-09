@@ -1,6 +1,9 @@
  ### Hello World! My name is Felipe our Mega! 🖖
 
  ![Mega GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipepLopes&show_icons=true&theme=tokyonight)
+ 
+####  Estou cursando Desenvolvimento de Software na Cubos Academy e tenho experiência com HTML, CSS e JavaScript.
+####  Até o fim do curso vou está adquirindo conhecimento em React, SQL, noSQL e TypeScript.
 
 ### Tecnologias utilizadas no meu dia-adia (por enquanto)🧠:
 
